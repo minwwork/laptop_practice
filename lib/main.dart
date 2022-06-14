@@ -1,3 +1,5 @@
+//계속되는 소스트리 연습 중
+
 import 'package:flutter/material.dart';
 
 void main() {
